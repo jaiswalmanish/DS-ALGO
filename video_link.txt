@@ -1,0 +1,73 @@
+Circular Linked List:
+https://www.youtube.com/watch?v=iZVBVCpmugI
+
+Heap:
+https://www.youtube.com/watch?v=t0Cq6tVNRBA
+
+DFS/BFS:
+https://www.youtube.com/watch?v=zaBhtODEL0w&t=2s
+
+Dijesktra:
+https://www.youtube.com/watch?v=bImvsFNym9I
+https://www.youtube.com/watch?v=7GoDDj3onfI
+https://www.youtube.com/watch?v=nhKU5IbJBEg&list=PL_CeQH2n4d4GvylJ3pQiiLRsQDcKpZd_a
+
+Kruskal:
+
+
+Horspool:
+
+
+Greedy:
+
+
+Huffman:
+
+
+Dynamic:
+
+
+Bottom-up:
+
+
+Top-Down:
+
+
+HashMap:
+
+
+HashSet:
+
+
+Binary Search:
+
+
+Binary Tree:
+
+Binary Search Tree:
+
+Balanced Tree:
+
+Collection Interface: 
+https://www.quora.com/What-are-collections-in-Java-and-collection-interfaces
+
+
+B-Tree
+https://www.youtube.com/watch?v=C_q5ccN84C8
+
+
+Java Design Pattern:
+https://www.journaldev.com/1827/java-design-patterns-example-tutorial
+
+Java OOPS:
+Poly:
+https://www.youtube.com/watch?v=YoSghxkxBVQ 	
+https://www.sitesbay.com/interview/java-polymorphism-interview-questions-in-java
+
+Anonymous class-
+https://www.youtube.com/watch?v=ihAzMaUFjgY
+Anonymous objects/Stack Memory/Heap Memory/ GC
+https://www.youtube.com/watch?v=AmRjm4Cksmo
+
+Comparator vs Comparable
+https://www.youtube.com/watch?v=oAp4GYprVHM
